@@ -1,5 +1,5 @@
 # Assignment8_Lists
-# README – Sudoku Validation and NLP
+#  Sudoku and NLP
 
 ## 1. Program Descriptions
 
