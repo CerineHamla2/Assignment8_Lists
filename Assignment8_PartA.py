@@ -4,7 +4,7 @@ def Sudoku(list1):
     if type(list1) != list:
         raise TypeError("Invalid input, please enter a valid list of numbers")
 
-    num = [1,2,3,4,5,6,7,8,9]   ########same as i did 
+    num = [1,2,3,4,5,6,7,8,9] 
 
     if len(list1) == 3 and all(type(row) == list for row in list1):    #checking if the list is a list of lists and has exactly 3 subgrids
         
